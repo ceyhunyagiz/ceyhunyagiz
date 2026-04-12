@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ceyhun
 
-<!--
-**ceyhunyagiz/ceyhunyagiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year Computer Programming student at Marmara University.  
+I focus on building desktop applications using C# and .NET technologies.
 
-Here are some ideas to get you started:
+## Technologies
+- C#
+- .NET (WinForms)
+- SQL Server
+- Entity Framework Core
+- LINQ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+I am currently developing a fitness management application.  
+The project includes user management, workout tracking and database integration.
+
+## Projects
+- Fitness Management System (in progress)
+
+## Contact
+LinkedIn: (https://www.linkedin.com/in/ceyhunyagizyilmaz/)
