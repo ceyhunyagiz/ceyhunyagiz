@@ -11,9 +11,9 @@ I enjoy working with relational databases, writing backend logic, and building f
 ### 🛠️ What I Work With
 
 * **Core Backend & .NET:** `C#`, `.NET (WinForms, EF Core)`, `LINQ`
-* **Databases & Data Management:** `MS SQL Server`, `SQLite`, `Relational Schema Design`, `SQL Queries`
+* **Databases & Data Management:** `MS SQL Server`, `SQLite`
 * **Python & Automation:** `Python (Data processing, OCR, Scripting, Bot Tooling)`
-* **Tools & Systems:** `Git`, `Postman`, `Linux / Bash`
+* **Tools & Systems:** `Git`, `Linux / Bash`
 
 ---
 
